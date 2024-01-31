@@ -1,0 +1,14 @@
+C:\PROJECTS\MyPackMan\MyPackMan\bin\Release\net6.0\MyPackMan.exe
+C:\PROJECTS\MyPackMan\MyPackMan\bin\Release\net6.0\MyPackMan.deps.json
+C:\PROJECTS\MyPackMan\MyPackMan\bin\Release\net6.0\MyPackMan.runtimeconfig.json
+C:\PROJECTS\MyPackMan\MyPackMan\bin\Release\net6.0\MyPackMan.dll
+C:\PROJECTS\MyPackMan\MyPackMan\bin\Release\net6.0\MyPackMan.pdb
+C:\PROJECTS\MyPackMan\MyPackMan\obj\Release\net6.0\MyPackMan.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJECTS\MyPackMan\MyPackMan\obj\Release\net6.0\MyPackMan.AssemblyInfoInputs.cache
+C:\PROJECTS\MyPackMan\MyPackMan\obj\Release\net6.0\MyPackMan.AssemblyInfo.cs
+C:\PROJECTS\MyPackMan\MyPackMan\obj\Release\net6.0\MyPackMan.csproj.CoreCompileInputs.cache
+C:\PROJECTS\MyPackMan\MyPackMan\obj\Release\net6.0\MyPackMan.dll
+C:\PROJECTS\MyPackMan\MyPackMan\obj\Release\net6.0\refint\MyPackMan.dll
+C:\PROJECTS\MyPackMan\MyPackMan\obj\Release\net6.0\MyPackMan.pdb
+C:\PROJECTS\MyPackMan\MyPackMan\obj\Release\net6.0\MyPackMan.genruntimeconfig.cache
+C:\PROJECTS\MyPackMan\MyPackMan\obj\Release\net6.0\ref\MyPackMan.dll

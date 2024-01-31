@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "zCXb8YkupnHhuXw006MaC2iTBFNm22l67MilcjAEfiGtPDeuiZahMl6PWDpDnEmPHaI9Jns7+0qksWAgifRaBg==",
+  "success": true,
+  "projectFilePath": "C:\\PROJECTS\\MyPackMan\\MyPackMan\\MyPackMan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lesha\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.22\\microsoft.netcore.app.runtime.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\lesha\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.22\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.22.nupkg.sha512",
+    "C:\\Users\\lesha\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.22\\microsoft.aspnetcore.app.runtime.win-x64.6.0.22.nupkg.sha512"
+  ],
+  "logs": []
+}
